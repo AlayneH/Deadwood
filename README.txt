@@ -1,0 +1,1 @@
+compile deadwood.java and follow the instructions!
